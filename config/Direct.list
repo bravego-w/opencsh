@@ -27,6 +27,9 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # qq或者微信
 DOMAIN-SUFFIX,qq.com
 
+# deepseek
+DOMAIN-SUFFIX,deepseek.com
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
